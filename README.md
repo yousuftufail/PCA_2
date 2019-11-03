@@ -13,7 +13,7 @@ important and which dimenssion can be neglected. In this example I have also sta
 
 1. pandas
 2. matplotlib.pyplot
-pearsonr from scipy.stats
-3. PCA from sklearn.decomposition
-4. StandardScaler from sklearn.preprocessing 
-5. make_pipeline from sklearn.pipeline  
+3. pearsonr from scipy.stats
+4. PCA from sklearn.decomposition
+5. StandardScaler from sklearn.preprocessing 
+6. make_pipeline from sklearn.pipeline  
