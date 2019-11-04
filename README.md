@@ -4,10 +4,12 @@
 
 Two datasets (Ex.1 grains dataset, 2-D) and (Ex. 2 fish dataset 6D) are considered.
 
-In fitst example I have plotted the arrow (principle vector, basis in mathematical term) that indicates the direction of scatter plott.
+In fitst example I have plotted the arrow (principle vector, basis in mathematical sense) that indicates the direction of scatter plott.
 
 In second example, I have taken fish dataset (6-D) and Make a plot of the variances of the PCA features to find out which dimension is 
-important and which dimenssion can be neglected. In this example I have also standarised the data as features have strong variation.
+important and which dimenssion can be neglected. In this example I have also standarized the data because features have strong variation.
+I have found that 2-dimenssionas are enough to represent this data.
+At the end PCA is fit to the fish data with two components and generate the scattered plot. All four species can be seen in this scatter plot.
 
 # Following python modules are required.
 
